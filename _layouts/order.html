@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{%- include header.html -%}
+
+<!-- Main -->
+<div id="main">
+	<!-- Post -->
+	<article class="shade-two order">
+	  <div class="container">
+			<header>
+			  <h2>{{- page.title -}}</h2>
+			  <p>{{- page.date | date_to_long_string -}}</p>
+			  <dl class="order-headers">
+			    <dt>To</dt>
+			    <dd>{{ page.to }}</dd>
+			    <dt>From</dt>
+			    <dd>{{ page.author }}</dd>
+			    <dt>Re</dt>
+			    <dd>{{ page.subtitle }}</dd>
+			  </dl>
+			</header>
+	    {{- content -}}
+	  </div>
+	</article>
+</div>
