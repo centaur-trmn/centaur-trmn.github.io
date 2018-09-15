@@ -36,3 +36,6 @@ dl.order-headers > dt {float:left; text-align: right; margin-right:1ex;}
 
 .comm-links > li > a {display: block;}
 .comm-links > li > a:before {display: block; margin-left: auto; margin-right: auto; font-size: 300%;}
+
+header > h3+p {margin-top:-0.5em; margin-bottom: 0; font-style: italic;}
+header {clear: both;}
