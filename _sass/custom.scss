@@ -3,20 +3,18 @@
 @import 'libs/mixins';
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&subset=latin-ext');
-
-@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Archivo+Narrow:400,400i,500,500i,600,600i,700,700i|Archivo:400,400i,500,500i,600,600i,700,700i&subset=latin-ext');
-
 #logo {text-align: center; margin-left: 0.5em; margin-right: 0.5em; margin-top: 1em;}
-#logo p {font-family: 'Archivo Narrow'; font-weight: 700; font-size: 0.8em;}
+#logo p {font-size: 0.8em;}
 #logo img {width: 100%;}
 #logo img.trmn-logotype {margin-top: 1ex; filter:invert(100%)}
 
 #header {background: #121110 url("images/overlay.png");}
 
+#header {font-family: 'Akrobat'; font-weight: 700;}
+
 #main > section.shade-two {background-color: #fefdf8;}
 
-body {font-family: 'Archivo';}
+body {font-family: 'Decalotype'; font-weight:300; color: #222; font-size: 175%; line-height: 140%;}
 
 
 #main > section.cover#cover {padding: 2.5% 0;}
@@ -38,5 +36,6 @@ dl.order-headers > dt {float:left; text-align: right; margin-right:1ex;}
 .comm-links > li > a {display: block;}
 .comm-links > li > a:before {display: block; margin-left: auto; margin-right: auto; font-size: 300%;}
 
-header > h3+p {margin-top:-0.5em; margin-bottom: 0; font-style: italic;}
+header > h3+p {margin-top: 0; margin-bottom: 0; font-style: italic;}
 header {clear: both;}
+
