@@ -8,9 +8,10 @@ layout: default
 	<!-- Post -->
 	<article class="shade-two order">
 	  <div class="container">
+	    {% include letterhead.html  org=page.letterhead %}
 			<header>
+			  <p class="date" >{{- page.date | date_to_long_string -}}</p>
 			  <h2>{{- page.title -}}</h2>
-			  <p>{{- page.date | date_to_long_string -}}</p>
 			  <dl class="order-headers">
 			    <dt>To</dt>
 			    <dd>{{ page.to }}</dd>
@@ -20,7 +21,9 @@ layout: default
 			    <dd>{{ page.subtitle }}</dd>
 			  </dl>
 			</header>
-	    {{- content -}}
+	   <section class="body">
+	     {{- content -}}
+           </section>
 	  </div>
 	</article>
 </div>

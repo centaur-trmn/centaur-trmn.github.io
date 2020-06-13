@@ -6,6 +6,7 @@ author: RADM Sir Michael Garcia, KDE, RMN
 subtitle: Commissioning of HMS Justicar (CA-404)
 to: All Officers, Enlisted, and Civilians within the Star Kingdom of Manticore, as well as those Allied with Her Majesty, the Sovereign Queen, Elizabeth III. 
 categories: orders buships
+letterhead: buships
 ---
 
 Attention to Orders:

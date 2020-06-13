@@ -6,6 +6,7 @@ to:     All Officers and Enlisted in the Royal Manticoran Navy, and all Officers
 author: John Roberts, Admiral of the Green
 subtitle: Establishment of Task Group 94.1 and Appointment of Commander
 categories: orders navy
+letterhead: 1sl
 ---
 
 As of the date of this Order, by my hand, and by the authority of the Sovereign, Queen of Manticore Elizabeth III, I hereby establish the Organization of the Task Group 94.1 (TG 94.1) under the command of Commodore Robert Demkiw to consist of the following:

@@ -6,6 +6,7 @@ to:     All Officers, Enlisted, and Civilians within the Star Kingdom of Mantico
 author: CDRE Sir Michael D. Garcia, KCE, OC, GS, Deputy Third Space Lord
 subtitle: Recommissioning HMS Avalon (CL-395)
 categories: orders buships
+letterhead: buships
 ---
 
 Attention to Orders:

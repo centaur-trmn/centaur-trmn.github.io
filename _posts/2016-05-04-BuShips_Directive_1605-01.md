@@ -6,6 +6,7 @@ author: CDRE Michael D. Garcia, OC, GS, Deputy Third Space Lord
 subtitle: Commissioning of HMS Hellhound (DD-446)
 to: All Officers, Enlisted, and Civilians within The Royal Manticoran Navy
 categories: orders buships
+letterhead: buships
 ---
 
 Attention to Orders:
@@ -28,14 +29,13 @@ The following brevets are hereby authorized:
 * Kyle Polkinghorne (to CPO)
 
 
-In Service to Her Majesty, the Sovereign Queen of the Star Kingdom of Manticore, Elizabeth III,
-
-Michael D. Garcia, OC, GS  
+In Service to Her Majesty, the Sovereign Queen of the Star Kingdom of Manticore, Elizabeth III,  
+**Michael D. Garcia, OC, GS**  
 Commodore, RMN  
 Deputy Third Space Lord, Bureau of Ships  
 
 By Direction:  
-Lord Sir John Roberts, KDE, SC  
+**Lord Sir John Roberts, KDE, SC**  
 Admiral of the Green, RMN  
 Third Space Lord, Bureau of Ships  
 Earl, New Mecklenberg

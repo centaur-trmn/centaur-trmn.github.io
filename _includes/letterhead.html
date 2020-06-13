@@ -1,0 +1,31 @@
+{% case include.org %}
+  {% when "centaur" %}
+     {% assign name = "HMS Centaur" %}
+     {% assign image = "centaur-logotype.svg" %}
+  {% when "justicar" %}
+     {% assign name = "HMS Justicar" %}
+     {% assign image = "justicar-logotype.svg" %}
+  {% when "avalon" %}
+     {% assign name = "HMS Avalon" %}
+     {% assign image = "avalon-logotype.svg" %}
+  {% when "hellhound" %}
+     {% assign name = "HMS Hellhound" %}
+     {% assign image = "hellhound-logotype.svg" %}
+  {% when "10flt" %}
+     {% assign name = "Thenth Fleet" %}
+     {% assign image = "10flt-logotype.svg" %}
+  {% when "buships" %}
+     {% assign name = "Bureau of Ships" %}
+     {% assign image = "buships-logotype.svg" %}
+  {% when "1sl" %}
+     {% assign name = "Office of the First Space Lord" %}
+     {% assign image = "1sl-logotype.svg" %}
+  {% else %}
+     {% assign name = "The Official Honor Harrington Fan Organization" %}
+     {% assign image = "generic-logotype.svg" %}
+{% endcase %}
+
+
+	    <header class="letterhead">
+	      <object width="100%" data="/assets/images/{{image}}">The Royal Manticoran Navy<br />{{name}}</object>
+	    </header>

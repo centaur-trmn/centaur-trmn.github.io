@@ -6,6 +6,7 @@ author: ADM Chrissy Killian, CO Tenth Fleet
 subtitle: Royal Meritorious Unit Citation
 to:  All Tenth Fleet Personnel, and all personnel of the Grand Alliance
 categories: orders tenthfleet
+letterhead: 10flt
 ---
 
 I am awarding the Royal Meritorious Unit Citation to the HMS *Justicar* CA-404. The ship has been very active. In less than a year, they have recruited enough members to move up not just once, from a DD, but twice to their current level of Heavy Cruiser.

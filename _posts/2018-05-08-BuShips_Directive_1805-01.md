@@ -6,6 +6,7 @@ author: RADM Michael D. Garcia, GCE, KR, RMN, Third Space Lord
 subtitle: Commissioning of HMS Centaur
 to:     All Officers, Enlisted, and Civilians within the Star Kingdom of Manticore, as well as those Allied with Her Majesty, the Sovereign Queen, Elizabeth III. 
 categories: orders buships
+letterhead: buships
 ---
 
 Attention to Orders:
