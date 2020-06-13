@@ -36,12 +36,12 @@ Subsequent to this recommissioning, HMS *Hellhound* (DD-446) shall be transferre
 In Service to Her Majesty, the Sovereign Queen of the Star Kingdom of Manticore, Elizabeth III,
 
 Issued by:  
-Sir Michael D. Garcia, KCE, OC, GS  
+**Sir Michael D. Garcia, KCE, OC, GS**  
 Commodore, RMN  
 Deputy Third Space Lord, Bureau of Ships
 
 By Direction:  
 Issued by:  
-Sir John Roberts, KDE, SC, OR  
+**Sir John Roberts, KDE, SC, OR**  
 Admiral of the Green, RMN  
 Third Space Lord, Bureau of Ships  

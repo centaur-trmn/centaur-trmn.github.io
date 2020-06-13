@@ -41,6 +41,6 @@ Subsequent to this commissioning, HMS *Avalon* (CL-395) shall be transferred to 
 In Service to Her Majesty, the Sovereign Queen of the Star Kingdom of Manticore, Elizabeth III,
 
 Issued by:  
-Sir Michael D. Garcia, KDE, OC, SC, CGM, GS  
+**Sir Michael D. Garcia, KDE, OC, SC, CGM, GS**  
 Rear Admiral of the Red, RMN  
 Third Space Lord, Bureau of Ships  

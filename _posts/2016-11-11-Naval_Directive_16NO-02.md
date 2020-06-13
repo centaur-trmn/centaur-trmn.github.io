@@ -21,7 +21,7 @@ In addition I do hereby direct all officers herein named to take charge of their
 In Honour of the Queen!
 
 Issued by:  
-Lord Sir John Roberts, KDE, SC, OR  
+**Lord Sir John Roberts, KDE, SC, OR**  
 Admiral of the Green  
 First Space Lord (Acting for Naval Operations)  
 Earl, New Mecklenberg

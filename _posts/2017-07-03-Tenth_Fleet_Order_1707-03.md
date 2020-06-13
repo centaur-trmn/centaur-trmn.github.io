@@ -20,7 +20,7 @@ Congratulations to everyone! Great job!
 
 By my Hand, July 2, 2017, in the name of Queen Elizabeth III.
 
-Lady Chrissy Killian, OCN  
+**Lady Chrissy Killian, OCN**  
 Admiral of the Green, RMN  
 Commanding Officer, Tenth Fleet  
 First Countess, Fontana Flats  

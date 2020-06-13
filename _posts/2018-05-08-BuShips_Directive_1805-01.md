@@ -49,6 +49,6 @@ Subsequent to this commissioning, HMS *Justicar* (CA-404) shall be transferred t
 In Service to Her Majesty, the Sovereign Queen of the Star Kingdom of Manticore, Elizabeth III,
 
 Issued by:  
-Michael D. Garcia, GCE, OC, KR, SC, CGM, GS  
+**Michael D. Garcia, GCE, OC, KR, SC, CGM, GS**  
 Rear Admiral of the Red, RMN  
 Third Space Lord, Bureau of Ships
