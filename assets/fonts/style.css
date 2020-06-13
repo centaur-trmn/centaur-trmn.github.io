@@ -166,3 +166,34 @@ font-style: italic;
 font-weight: 900;
 src: local('Decalotype Black Italic'), url('Decalotype-BlackItalic.woff') format('woff');
 }
+
+@font-face {
+font-family: 'Droid Serif';
+font-style: normal;
+font-weight: 400;
+src: local('Droid Serif Regular'), url('DroidSerif-Regular.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Droid Serif';
+font-style: italic;
+font-weight: 400;
+src: local('Droid Serif Italic'), url('DroidSerif-Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Droid Serif;
+font-style: normal;
+font-weight: 700;
+src: local('Droid Serif Bold'), url('DroidSerif-Bold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Droid Serif';
+font-style: italic;
+font-weight: 700;
+src: local('Droid Serif Bold Italic'), url('DroidSerif-BoldItalic.woff') format('woff');
+}
