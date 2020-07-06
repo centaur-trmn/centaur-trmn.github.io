@@ -1,7 +1,7 @@
 ---
 layout: order
 title:  Naval Directive 20JY-01
-date:   2016-11-11
+date:   2020-07-03
 to:     All Officers and Enlisted in the Royal Manticoran Navy, all Officers and Enlisted in the Grayson Space Navy, and all Members of the Grand Alliance
 author: Laura Lochen, Fleet Admiral of the Red
 subtitle: Resignation and Appointment of Commanding Officer Victoria Station
