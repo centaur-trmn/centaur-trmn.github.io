@@ -22,9 +22,9 @@ Commensurate with your new duties, you are hereby promoted to Commodore.
 
 The Command triad of Victoria Station is as follows:
 
-Commodore Clipper Island - Commanding Officer
-Commodore Jenni Merrifield, GSN - Deputy Commanding Officer
-Master Chief Petty Officer Dan Dubrick, RMN - Station bosun
+* Commodore Clipper Island - Commanding Officer
+* Commodore Jenni Merrifield, GSN - Deputy Commanding Officer
+* Master Chief Petty Officer Dan Dubrick, RMN - Station bosun
 
 Honor of the Queen!
 
